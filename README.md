@@ -9,10 +9,10 @@
 - References
 
 ## Author Information
-- Name: Your Name
-- Email: Your Email
-- Class and Assignment Numbers: Lab 2
-- Git repository URL: Your Git Repository URL
+- Name: Kainat Khan
+- Email: kkhan14@hawk.iit.edu
+- Class and Assignment Numbers: Lab 3
+- Git repository URL: https://github.com/kainatk761/lab3
 
 ## Project Description
 This project is a Node.js Express application that acts as a contact database. It allows users to create, view, edit, and delete individual contacts. The application does not use a database to store persistent data, instead, it persists the data using a file on the file system.
