@@ -9,10 +9,10 @@
 - References
 
 ## Author Information
-- Name: Kainat Khan
-- Email: kkhan14@hawk.iit.edu
+- Name: Akhil Kumar Gaddam
+- Email: agaddam3@hawk.iit.edu
 - Class and Assignment Numbers: Lab 3
-- Git repository URL: https://github.com/kainatk761/lab3
+- Git repository URL: https://github.com/akhilgaddam5/lab3-1.git
 
 ## Project Description
 This project is a Node.js Express application that acts as a contact database. It allows users to create, view, edit, and delete individual contacts. The application does not use a database to store persistent data, instead, it persists the data using a file on the file system.
